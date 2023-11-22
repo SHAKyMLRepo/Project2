@@ -1,2 +1,3 @@
-/data/with_mask
-/data/without_mask
+/data
+X.pickle
+Y.pickle
