@@ -1,6 +1,6 @@
 # Project: Face Mask Detection using Convolutional Neural Network (CNN)
 
-![House Prediction](Images/mask.jpg)
+![FaceMask](Images/mask.jpg)
 
 ## Introduction
 
