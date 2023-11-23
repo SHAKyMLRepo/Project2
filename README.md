@@ -25,18 +25,22 @@ The rapid advancement of Computer Vision technology has opened many new uses cas
 
 ### Data Analysis
 <br>
+
 ![image](https://github.com/SHAKyMLRepo/Project2-Face-Mask-Detection-using-CNN/assets/145592967/58c18f00-3e8d-409e-9a20-6f610701a80a)
 <br>
 *Figure 1. Bar Chart showing ratio of pictures classified as with and without masks*
 <br>
+
 ![image](https://github.com/SHAKyMLRepo/Project2-Face-Mask-Detection-using-CNN/assets/145592967/c761ea91-99f7-4558-96f1-ba7cce2e3676)
 <br>
 *Figure 2. Sample image from dataset*
 <br>
+
 ![image](https://github.com/SHAKyMLRepo/Project2-Face-Mask-Detection-using-CNN/assets/145592967/7aa40e97-0818-441c-abcc-1c39ccf6460c)
 <br>
 *Figure 3. Image Size Properties (width,height) for with mask images*
 <br>
+
 ![image](https://github.com/SHAKyMLRepo/Project2-Face-Mask-Detection-using-CNN/assets/145592967/7be47b35-2fc0-414e-acc6-40138510ced9)
 <br>
 *Figure 4. Image Size Properties width,height) for without mask images*
