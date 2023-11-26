@@ -10,6 +10,9 @@ The rapid advancement of Computer Vision technology has opened many new uses cas
 
 **Objective**: The primary objective of this project is to build a robust Face Mask Detection model using Convolutional Neural Network techniques. The model aims to analyze images and determine whether the person in the image is wearing a face mask.
 
+## Running the Code
+<p>Due to data limits on my Github account, I cannot upload the code to allow direct running. If you are interested however you can clone this repository and download the dataset from the link below to enable direct running of all code</p>
+
 ## Key Components
 
 ### Data Sourcing
@@ -25,20 +28,31 @@ The rapid advancement of Computer Vision technology has opened many new uses cas
 
 ### Data Analysis
 <br>
+### Chart showing Images with and without Masks
+<p>This chart shows that there is a good balance between the images with and without mask which is promising in terms of model training</p><br>
 
 ![image](https://github.com/SHAKyMLRepo/Project2-Face-Mask-Detection-using-CNN/assets/145592967/58c18f00-3e8d-409e-9a20-6f610701a80a)
 <br>
 *Figure 1. Bar Chart showing ratio of pictures classified as with and without masks*
 <br>
 
+### Sample Image from the dataset
+<p>An example picture from the dataset, showing that these images are in color and of various sizes.</p><br>
+
 ![image](https://github.com/SHAKyMLRepo/Project2-Face-Mask-Detection-using-CNN/assets/145592967/c761ea91-99f7-4558-96f1-ba7cce2e3676)
 <br>
 *Figure 2. Sample image from dataset*
+<br>
+### Chart showing difference in size of photo in With Mask set
+<p>This chart highlights that all images are of various sizes and will have to be uniformly reshaped to fit input layer of model</p>
 <br>
 
 ![image](https://github.com/SHAKyMLRepo/Project2-Face-Mask-Detection-using-CNN/assets/145592967/7aa40e97-0818-441c-abcc-1c39ccf6460c)
 <br>
 *Figure 3. Image Size Properties (width,height) for with mask images*
+<br>
+### Chart showing difference in size of photo in Without Mask set
+<p>This chart highlights that all images are of various sizes will have to be uniformly reshaped to fit input layer of model</p>
 <br>
 
 ![image](https://github.com/SHAKyMLRepo/Project2-Face-Mask-Detection-using-CNN/assets/145592967/7be47b35-2fc0-414e-acc6-40138510ced9)
