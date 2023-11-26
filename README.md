@@ -11,7 +11,12 @@ The rapid advancement of Computer Vision technology has opened many new uses cas
 **Objective**: The primary objective of this project is to build a robust Face Mask Detection model using Convolutional Neural Network techniques. The model aims to analyze images and determine whether the person in the image is wearing a face mask.
 
 ## Running the Code
-<p>Due to data limits on my Github account, I cannot upload the code to allow direct running. If you are interested however you can clone this repository and download the dataset from the link below to enable direct running of all code</p>
+<p>Due to data limits on my Github account, I cannot upload the code to allow direct running. If you are interested however you can clone this repository and download the dataset from the link below to enable direct running of all code. To view the code directly please follow the links below:</p>
+<br>
+
+1. [Data Preprocessing](https://github.com/SHAKyMLRepo/Project2-Face-Mask-Detection-using-CNN/blob/master/Face_Mask_Detection.ipynb)
+2. [Start of Model Development](https://github.com/SHAKyMLRepo/Project2-Face-Mask-Detection-using-CNN/blob/master/CNN%20Model.ipynb)
+<br>
 
 ## Key Components
 
